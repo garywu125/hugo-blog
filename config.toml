@@ -4,8 +4,7 @@ title = "Hugo Blog for Watermelon"
 
 [permalinks]
   blog = "/:filename/"
-[taxonomies]
-  tag = "tags"  
+
 
 [menu]
   [[menu.main]]
