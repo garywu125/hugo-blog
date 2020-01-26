@@ -2,7 +2,7 @@
 title: "If by Rudyard Kipling"
 date: 2020-01-26T14:49:22+08:00
 tags: ["poetry", "life"]
-draft: true
+draft: false
 ---
 
 If you can keep your head when all about you  
