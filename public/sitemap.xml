@@ -3,15 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:2015/</loc>
+    <loc>https://gy-hugo-scratch.netlify.com/</loc>
+    <lastmod>2020-01-26T15:11:24+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:2015/blog/</loc>
+    <loc>https://gy-hugo-scratch.netlify.com/blog/</loc>
+    <lastmod>2020-01-26T15:11:24+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:2015/tags/</loc>
+    <loc>https://gy-hugo-scratch.netlify.com/tags/poetry/</loc>
+    <lastmod>2020-01-26T15:11:24+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gy-hugo-scratch.netlify.com/tags/</loc>
+    <lastmod>2020-01-26T15:11:24+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gy-hugo-scratch.netlify.com/tags/trees/</loc>
+    <lastmod>2020-01-26T15:11:24+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gy-hugo-scratch.netlify.com/trees-by-joyce-kilmer/</loc>
+    <lastmod>2020-01-26T15:11:24+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gy-hugo-scratch.netlify.com/if-by-rudyard-kipling/</loc>
+    <lastmod>2020-01-26T14:49:22+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gy-hugo-scratch.netlify.com/tags/life/</loc>
+    <lastmod>2020-01-26T14:49:22+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gy-hugo-scratch.netlify.com/that-it-will-never-come-again-by-emily-dickinson/</loc>
+    <lastmod>2020-01-23T15:10:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gy-hugo-scratch.netlify.com/tags/time/</loc>
+    <lastmod>2020-01-23T15:10:12+08:00</lastmod>
   </url>
   
 </urlset>
